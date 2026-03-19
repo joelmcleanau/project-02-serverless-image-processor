@@ -35,7 +35,7 @@ flowchart TD
     L --> DDB
     L --> S3Out
     L --> CW
-
+```
 ## AWS Services Used
 
 - **Amazon S3** – stores uploaded images and processed thumbnails
